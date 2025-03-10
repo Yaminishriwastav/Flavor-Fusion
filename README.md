@@ -1,10 +1,10 @@
-# 🍽️ Flavor Fusion - Recipe Sharing App
+# 🍽️ Flavor Fusion - Recipe Sharing App  
 
-Welcome to **Flavor Fusion**, your ultimate destination for discovering, sharing, and enjoying delicious recipes from around the world! 🌍✨ Whether you're a home cook or a professional chef, this platform makes cooking fun, easy, and accessible. 👨‍🍳👩‍🍳
+Welcome to **Flavor Fusion**, your ultimate destination for discovering, sharing, and enjoying delicious recipes from around the world! 🌍✨ Whether you're a home cook or a professional chef, this platform makes cooking fun, easy, and accessible. 👨‍🍳👩‍🍳  
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
 ✅ **Browse Recipes** – Explore a variety of recipes from different cuisines.  
 ✅ **Add Your Own Recipes** – Share your favorite dishes with the world.  
@@ -13,13 +13,16 @@ Welcome to **Flavor Fusion**, your ultimate destination for discovering, sharing
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-- **Frontend**: React.js, Chakra UI
-- **Routing**: React Router
-- **State Management**: React Context API
-- **Icons**: React Icons
-- **Storage**: Local state (can be extended with Firebase or an API)
+- **Frontend**: React, Chakra UI  
+- **Routing**: React Router  
+- **State Management**: React Context API  
+- **Icons**: React Icons  
+- **Storage**: Local state (can be extended with Firebase or an API)  
 
 ---
 
+## 🌐 Live Demo  
+
+🔗 **Check it out here:** [Flavor Fusion](https://yaminishriwastav.github.io/Flavor-Fusion/) 🚀🍽️  
